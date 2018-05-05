@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d38117b-fd50-4612-adaf-bae19704b1de" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DadosPessoais.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DadosPessoais.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/login.py" />
+        <option value="$PROJECT_DIR$/venv/DadosPessoais.py" />
+        <option value="$PROJECT_DIR$/DadosPessoais.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-88" />
+    <option name="y" value="195" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetoAula" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoAula" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoAula" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoAula" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno\PycharmProjects\ProjetoAula\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in DadosPessoais.py">
+    <configuration name="Unittests for DadosPessoais.DadosPessoais" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoAula" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DadosPessoais.DadosPessoais&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in DadosPessoais.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoAula" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/DadosPessoais.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in DadosPessoais.py" />
+      <item itemvalue="Python tests.Unittests for DadosPessoais.DadosPessoais" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in DadosPessoais.py" />
+        <item itemvalue="Python tests.Unittests for DadosPessoais.DadosPessoais" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d38117b-fd50-4612-adaf-bae19704b1de" name="Default" comment="" />
+      <created>1525477660386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525477660386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 00m 37s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DadosPessoais_DadosPessoais - 2018.05.04 at 21h 00m 50s.xml">
+      <configuration name="Unittests for DadosPessoais.DadosPessoais" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DadosPessoais_DadosPessoais - 2018.05.04 at 21h 00m 56s.xml">
+      <configuration name="Unittests for DadosPessoais.DadosPessoais" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DadosPessoais_DadosPessoais - 2018.05.04 at 21h 01m 16s.xml">
+      <configuration name="Unittests for DadosPessoais.DadosPessoais" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 02m 13s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 02m 34s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 02m 43s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 02m 49s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 02m 58s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DadosPessoais_py - 2018.05.04 at 21h 03m 00s.xml">
+      <configuration name="Unittests in DadosPessoais.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-88" y="195" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962406" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3298791" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DadosPessoais.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DadosPessoais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
